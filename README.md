@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG with cold blue color -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Adnane+Ezzirari+(0x1ceW4rd);Student+%40+UM6P+%7C+1337+%7C+42+Network+%F0%9F%8E%93;C+%7C+Python+%7C+Linux+%7C+AI;Pen+Testing+%7C+Reverse+Engineering;Building+things+from+scratch+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%20%F0%9F%91%8B%2C%20I'm%20Adnane%20Ezzirari%20%280x1ceW4rd%29;Student%20%40%20UM6P%20%7C%201337%20%7C%2042%20Network%20%F0%9F%8E%93;C%20%7C%20Python%20%7C%20Linux%20%7C%20AI;Pen%20Testing%20%7C%20Reverse%20Engineering;Building%20things%20from%20scratch%20%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
