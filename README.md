@@ -9,7 +9,7 @@
 <a href="mailto:mr.adnaneezzirari@gmail.com">
   <img src="https://img.shields.io/badge/Email-4169e1?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/aezzirar">
+<a href="https://github.com/0x1ceW4rd">
   <img src="https://img.shields.io/badge/GitHub-6a5acd?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.1337.ma/">
